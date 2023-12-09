@@ -1,1 +1,1 @@
-![img](./bg.png)
+![img](./profile/bg.png)
