@@ -1,8 +1,8 @@
-![img](./bg.png)
+![img](./profile/bg.png)
 
 WeaveVM (WVM) is the first EVM-compatible protocol engineered to manage complex, large-scale data computation without the high gas fees typically associated with on-chain state storage on EVM chains. WVM is also the first EVM-compatible protocol that fully relies on Arweave for DA, enabling atomicity of source code and data storage on the same ledger. WVM incorporates the principles of [VACP](https://docs.wvm.dev/discover-weavevm/weavevm-and-vacp), bolstering its ability to handle complex data structures efficiently and gaslessly.
 
-![img](./diagram.png)
+![img](./profile/diagram.png)
 
 WVM is a hyperscalable, lazy-evaluated EVM protocol with near-instant finality and full onchain storage.
 
@@ -16,7 +16,7 @@ WeaveVM introduces a new category of EVM compatibility known as SEE-EVM-Compatib
 
 It functions as a specialized execution environment utilizing the EVM as its core machine while leveraging Arweave for data storage. However, it's important to note that due to certain adjustments, complete compatibility with all EVM features might currently be restricted.
 
-![img](./scale.png)
+![img](./profile/scale.png)
 
 To understand that graphic better, let's define EVM equivalence and EVM compatibility:
 
