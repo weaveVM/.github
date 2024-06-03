@@ -7,7 +7,7 @@ WeaveVM (WVM) is the first EVM-compatible network engineered to manage complex, 
 ## Nomenclature
 The WeaveVM (WVM)  name signifies the integration of Arweave with the Ethereum Virtual Machine. WVM unites Arweave's data storage capabilities ("weave") with the functionalities of the EVM ("-eVM").
 
-# Can WeaveVM be labeled as an L2?
+## Can WeaveVM be labeled as an L2?
 Before determining whether WeaveVM fits the criteria for being classified as an L2 (Layer 2) solution, let's check the accurate definition for a layer 2 (L2):
 
 > "A layer 2 refers to any off-chain network, system, or technology built on top of a blockchain (commonly known as a layer-1 network) that helps extend the capabilities of the underlying base layer network. Layer-2 networks can support any blockchain to introduce enhancements such as higher transaction throughputs." - [Chainlink docs](https://chain.link/education-hub/what-is-layer-2)
