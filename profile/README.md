@@ -1,4 +1,4 @@
-![img](./profile/bg.png)
+![img](./bg.png)
 
 WeaveVM (WVM) is the first EVM-compatible network engineered to manage complex, large-scale data computation without the high gas fees typically associated with on-chain state storage on EVM chains. WVM is also the first EVM-compatible network that fully relies on Arweave for decentralized data storage, enabling atomicity of source code and data storage on the same ledger. 
 
